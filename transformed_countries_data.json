@@ -1,0 +1,1502 @@
+[
+    {
+        "name": "South Georgia",
+        "population": 30,
+        "area": 3903.0,
+        "region": "Antarctic"
+    },
+    {
+        "name": "Grenada",
+        "population": 112519,
+        "area": 344.0,
+        "region": "Americas"
+    },
+    {
+        "name": "Switzerland",
+        "population": 8654622,
+        "area": 41284.0,
+        "region": "Europe"
+    },
+    {
+        "name": "Sierra Leone",
+        "population": 7976985,
+        "area": 71740.0,
+        "region": "Africa"
+    },
+    {
+        "name": "Hungary",
+        "population": 9749763,
+        "area": 93028.0,
+        "region": "Europe"
+    },
+    {
+        "name": "Taiwan",
+        "population": 23503349,
+        "area": 36193.0,
+        "region": "Asia"
+    },
+    {
+        "name": "Wallis and Futuna",
+        "population": 11750,
+        "area": 142.0,
+        "region": "Oceania"
+    },
+    {
+        "name": "Barbados",
+        "population": 287371,
+        "area": 430.0,
+        "region": "Americas"
+    },
+    {
+        "name": "Pitcairn Islands",
+        "population": 56,
+        "area": 47.0,
+        "region": "Oceania"
+    },
+    {
+        "name": "Ivory Coast",
+        "population": 26378275,
+        "area": 322463.0,
+        "region": "Africa"
+    },
+    {
+        "name": "Tunisia",
+        "population": 11818618,
+        "area": 163610.0,
+        "region": "Africa"
+    },
+    {
+        "name": "Italy",
+        "population": 59554023,
+        "area": 301336.0,
+        "region": "Europe"
+    },
+    {
+        "name": "Benin",
+        "population": 12123198,
+        "area": 112622.0,
+        "region": "Africa"
+    },
+    {
+        "name": "Indonesia",
+        "population": 273523621,
+        "area": 1904569.0,
+        "region": "Asia"
+    },
+    {
+        "name": "Cape Verde",
+        "population": 555988,
+        "area": 4033.0,
+        "region": "Africa"
+    },
+    {
+        "name": "Saint Kitts and Nevis",
+        "population": 53192,
+        "area": 261.0,
+        "region": "Americas"
+    },
+    {
+        "name": "Laos",
+        "population": 7275556,
+        "area": 236800.0,
+        "region": "Asia"
+    },
+    {
+        "name": "Caribbean Netherlands",
+        "population": 25987,
+        "area": 328.0,
+        "region": "Americas"
+    },
+    {
+        "name": "Uganda",
+        "population": 45741000,
+        "area": 241550.0,
+        "region": "Africa"
+    },
+    {
+        "name": "Andorra",
+        "population": 77265,
+        "area": 468.0,
+        "region": "Europe"
+    },
+    {
+        "name": "Burundi",
+        "population": 11890781,
+        "area": 27834.0,
+        "region": "Africa"
+    },
+    {
+        "name": "South Africa",
+        "population": 59308690,
+        "area": 1221037.0,
+        "region": "Africa"
+    },
+    {
+        "name": "France",
+        "population": 67391582,
+        "area": 551695.0,
+        "region": "Europe"
+    },
+    {
+        "name": "Libya",
+        "population": 6871287,
+        "area": 1759540.0,
+        "region": "Africa"
+    },
+    {
+        "name": "Mexico",
+        "population": 128932753,
+        "area": 1964375.0,
+        "region": "Americas"
+    },
+    {
+        "name": "Gabon",
+        "population": 2225728,
+        "area": 267668.0,
+        "region": "Africa"
+    },
+    {
+        "name": "Northern Mariana Islands",
+        "population": 57557,
+        "area": 464.0,
+        "region": "Oceania"
+    },
+    {
+        "name": "North Macedonia",
+        "population": 2077132,
+        "area": 25713.0,
+        "region": "Europe"
+    },
+    {
+        "name": "China",
+        "population": 1402112000,
+        "area": 9706961.0,
+        "region": "Asia"
+    },
+    {
+        "name": "Yemen",
+        "population": 29825968,
+        "area": 527968.0,
+        "region": "Asia"
+    },
+    {
+        "name": "Saint Barth\u00e9lemy",
+        "population": 4255,
+        "area": 21.0,
+        "region": "Americas"
+    },
+    {
+        "name": "Guernsey",
+        "population": 62999,
+        "area": 78.0,
+        "region": "Europe"
+    },
+    {
+        "name": "Solomon Islands",
+        "population": 686878,
+        "area": 28896.0,
+        "region": "Oceania"
+    },
+    {
+        "name": "Svalbard and Jan Mayen",
+        "population": 2562,
+        "area": 61399.0,
+        "region": "Europe"
+    },
+    {
+        "name": "Faroe Islands",
+        "population": 48865,
+        "area": 1393.0,
+        "region": "Europe"
+    },
+    {
+        "name": "Uzbekistan",
+        "population": 34232050,
+        "area": 447400.0,
+        "region": "Asia"
+    },
+    {
+        "name": "Egypt",
+        "population": 102334403,
+        "area": 1002450.0,
+        "region": "Africa"
+    },
+    {
+        "name": "Senegal",
+        "population": 16743930,
+        "area": 196722.0,
+        "region": "Africa"
+    },
+    {
+        "name": "Sri Lanka",
+        "population": 21919000,
+        "area": 65610.0,
+        "region": "Asia"
+    },
+    {
+        "name": "Palestine",
+        "population": 4803269,
+        "area": 6220.0,
+        "region": "Asia"
+    },
+    {
+        "name": "Bangladesh",
+        "population": 164689383,
+        "area": 147570.0,
+        "region": "Asia"
+    },
+    {
+        "name": "Peru",
+        "population": 32971846,
+        "area": 1285216.0,
+        "region": "Americas"
+    },
+    {
+        "name": "Singapore",
+        "population": 5685807,
+        "area": 710.0,
+        "region": "Asia"
+    },
+    {
+        "name": "Turkey",
+        "population": 84339067,
+        "area": 783562.0,
+        "region": "Asia"
+    },
+    {
+        "name": "Afghanistan",
+        "population": 40218234,
+        "area": 652230.0,
+        "region": "Asia"
+    },
+    {
+        "name": "Aruba",
+        "population": 106766,
+        "area": 180.0,
+        "region": "Americas"
+    },
+    {
+        "name": "Cook Islands",
+        "population": 18100,
+        "area": 236.0,
+        "region": "Oceania"
+    },
+    {
+        "name": "United Kingdom",
+        "population": 67215293,
+        "area": 242900.0,
+        "region": "Europe"
+    },
+    {
+        "name": "Zambia",
+        "population": 18383956,
+        "area": 752612.0,
+        "region": "Africa"
+    },
+    {
+        "name": "Finland",
+        "population": 5530719,
+        "area": 338424.0,
+        "region": "Europe"
+    },
+    {
+        "name": "Niger",
+        "population": 24206636,
+        "area": 1267000.0,
+        "region": "Africa"
+    },
+    {
+        "name": "Christmas Island",
+        "population": 2072,
+        "area": 135.0,
+        "region": "Oceania"
+    },
+    {
+        "name": "Tokelau",
+        "population": 1411,
+        "area": 12.0,
+        "region": "Oceania"
+    },
+    {
+        "name": "Guinea-Bissau",
+        "population": 1967998,
+        "area": 36125.0,
+        "region": "Africa"
+    },
+    {
+        "name": "Azerbaijan",
+        "population": 10110116,
+        "area": 86600.0,
+        "region": "Asia"
+    },
+    {
+        "name": "R\u00e9union",
+        "population": 840974,
+        "area": 2511.0,
+        "region": "Africa"
+    },
+    {
+        "name": "Djibouti",
+        "population": 988002,
+        "area": 23200.0,
+        "region": "Africa"
+    },
+    {
+        "name": "North Korea",
+        "population": 25778815,
+        "area": 120538.0,
+        "region": "Asia"
+    },
+    {
+        "name": "Mauritius",
+        "population": 1265740,
+        "area": 2040.0,
+        "region": "Africa"
+    },
+    {
+        "name": "Montserrat",
+        "population": 4922,
+        "area": 102.0,
+        "region": "Americas"
+    },
+    {
+        "name": "United States Virgin Islands",
+        "population": 106290,
+        "area": 347.0,
+        "region": "Americas"
+    },
+    {
+        "name": "Colombia",
+        "population": 50882884,
+        "area": 1141748.0,
+        "region": "Americas"
+    },
+    {
+        "name": "Greece",
+        "population": 10715549,
+        "area": 131990.0,
+        "region": "Europe"
+    },
+    {
+        "name": "Croatia",
+        "population": 4047200,
+        "area": 56594.0,
+        "region": "Europe"
+    },
+    {
+        "name": "Morocco",
+        "population": 36910558,
+        "area": 446550.0,
+        "region": "Africa"
+    },
+    {
+        "name": "Algeria",
+        "population": 44700000,
+        "area": 2381741.0,
+        "region": "Africa"
+    },
+    {
+        "name": "Antarctica",
+        "population": 1000,
+        "area": 14000000.0,
+        "region": "Antarctic"
+    },
+    {
+        "name": "Netherlands",
+        "population": 16655799,
+        "area": 41850.0,
+        "region": "Europe"
+    },
+    {
+        "name": "Sudan",
+        "population": 43849269,
+        "area": 1886068.0,
+        "region": "Africa"
+    },
+    {
+        "name": "Fiji",
+        "population": 896444,
+        "area": 18272.0,
+        "region": "Oceania"
+    },
+    {
+        "name": "Liechtenstein",
+        "population": 38137,
+        "area": 160.0,
+        "region": "Europe"
+    },
+    {
+        "name": "Nepal",
+        "population": 29136808,
+        "area": 147181.0,
+        "region": "Asia"
+    },
+    {
+        "name": "Puerto Rico",
+        "population": 3194034,
+        "area": 8870.0,
+        "region": "Americas"
+    },
+    {
+        "name": "Georgia",
+        "population": 3714000,
+        "area": 69700.0,
+        "region": "Asia"
+    },
+    {
+        "name": "Pakistan",
+        "population": 220892331,
+        "area": 881912.0,
+        "region": "Asia"
+    },
+    {
+        "name": "Monaco",
+        "population": 39244,
+        "area": 2.02,
+        "region": "Europe"
+    },
+    {
+        "name": "Botswana",
+        "population": 2351625,
+        "area": 582000.0,
+        "region": "Africa"
+    },
+    {
+        "name": "Lebanon",
+        "population": 6825442,
+        "area": 10452.0,
+        "region": "Asia"
+    },
+    {
+        "name": "Papua New Guinea",
+        "population": 8947027,
+        "area": 462840.0,
+        "region": "Oceania"
+    },
+    {
+        "name": "Mayotte",
+        "population": 226915,
+        "area": 374.0,
+        "region": "Africa"
+    },
+    {
+        "name": "Dominican Republic",
+        "population": 10847904,
+        "area": 48671.0,
+        "region": "Americas"
+    },
+    {
+        "name": "Norfolk Island",
+        "population": 2302,
+        "area": 36.0,
+        "region": "Oceania"
+    },
+    {
+        "name": "Bouvet Island",
+        "population": 0,
+        "area": 49.0,
+        "region": "Antarctic"
+    },
+    {
+        "name": "Qatar",
+        "population": 2881060,
+        "area": 11586.0,
+        "region": "Asia"
+    },
+    {
+        "name": "Madagascar",
+        "population": 27691019,
+        "area": 587041.0,
+        "region": "Africa"
+    },
+    {
+        "name": "India",
+        "population": 1380004385,
+        "area": 3287590.0,
+        "region": "Asia"
+    },
+    {
+        "name": "Syria",
+        "population": 17500657,
+        "area": 185180.0,
+        "region": "Asia"
+    },
+    {
+        "name": "Montenegro",
+        "population": 621718,
+        "area": 13812.0,
+        "region": "Europe"
+    },
+    {
+        "name": "Eswatini",
+        "population": 1160164,
+        "area": 17364.0,
+        "region": "Africa"
+    },
+    {
+        "name": "Paraguay",
+        "population": 7132530,
+        "area": 406752.0,
+        "region": "Americas"
+    },
+    {
+        "name": "El Salvador",
+        "population": 6486201,
+        "area": 21041.0,
+        "region": "Americas"
+    },
+    {
+        "name": "Ukraine",
+        "population": 44134693,
+        "area": 603500.0,
+        "region": "Europe"
+    },
+    {
+        "name": "Isle of Man",
+        "population": 85032,
+        "area": 572.0,
+        "region": "Europe"
+    },
+    {
+        "name": "Namibia",
+        "population": 2540916,
+        "area": 825615.0,
+        "region": "Africa"
+    },
+    {
+        "name": "United Arab Emirates",
+        "population": 9890400,
+        "area": 83600.0,
+        "region": "Asia"
+    },
+    {
+        "name": "Bulgaria",
+        "population": 6927288,
+        "area": 110879.0,
+        "region": "Europe"
+    },
+    {
+        "name": "Greenland",
+        "population": 56367,
+        "area": 2166086.0,
+        "region": "Americas"
+    },
+    {
+        "name": "Germany",
+        "population": 83240525,
+        "area": 357114.0,
+        "region": "Europe"
+    },
+    {
+        "name": "Cambodia",
+        "population": 16718971,
+        "area": 181035.0,
+        "region": "Asia"
+    },
+    {
+        "name": "Iraq",
+        "population": 40222503,
+        "area": 438317.0,
+        "region": "Asia"
+    },
+    {
+        "name": "French Southern and Antarctic Lands",
+        "population": 400,
+        "area": 7747.0,
+        "region": "Antarctic"
+    },
+    {
+        "name": "Sweden",
+        "population": 10353442,
+        "area": 450295.0,
+        "region": "Europe"
+    },
+    {
+        "name": "Cuba",
+        "population": 11326616,
+        "area": 109884.0,
+        "region": "Americas"
+    },
+    {
+        "name": "Kyrgyzstan",
+        "population": 6591600,
+        "area": 199951.0,
+        "region": "Asia"
+    },
+    {
+        "name": "Russia",
+        "population": 144104080,
+        "area": 17098242.0,
+        "region": "Europe"
+    },
+    {
+        "name": "Malaysia",
+        "population": 32365998,
+        "area": 330803.0,
+        "region": "Asia"
+    },
+    {
+        "name": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+        "population": 219161,
+        "area": 964.0,
+        "region": "Africa"
+    },
+    {
+        "name": "Cyprus",
+        "population": 1207361,
+        "area": 9251.0,
+        "region": "Europe"
+    },
+    {
+        "name": "Canada",
+        "population": 38005238,
+        "area": 9984670.0,
+        "region": "Americas"
+    },
+    {
+        "name": "Malawi",
+        "population": 19129955,
+        "area": 118484.0,
+        "region": "Africa"
+    },
+    {
+        "name": "Saudi Arabia",
+        "population": 34813867,
+        "area": 2149690.0,
+        "region": "Asia"
+    },
+    {
+        "name": "Bosnia and Herzegovina",
+        "population": 3280815,
+        "area": 51209.0,
+        "region": "Europe"
+    },
+    {
+        "name": "Ethiopia",
+        "population": 114963583,
+        "area": 1104300.0,
+        "region": "Africa"
+    },
+    {
+        "name": "Spain",
+        "population": 47351567,
+        "area": 505992.0,
+        "region": "Europe"
+    },
+    {
+        "name": "Slovenia",
+        "population": 2100126,
+        "area": 20273.0,
+        "region": "Europe"
+    },
+    {
+        "name": "Oman",
+        "population": 5106622,
+        "area": 309500.0,
+        "region": "Asia"
+    },
+    {
+        "name": "Saint Pierre and Miquelon",
+        "population": 6069,
+        "area": 242.0,
+        "region": "Americas"
+    },
+    {
+        "name": "Macau",
+        "population": 649342,
+        "area": 30.0,
+        "region": "Asia"
+    },
+    {
+        "name": "San Marino",
+        "population": 33938,
+        "area": 61.0,
+        "region": "Europe"
+    },
+    {
+        "name": "Lesotho",
+        "population": 2142252,
+        "area": 30355.0,
+        "region": "Africa"
+    },
+    {
+        "name": "Marshall Islands",
+        "population": 59194,
+        "area": 181.0,
+        "region": "Oceania"
+    },
+    {
+        "name": "Sint Maarten",
+        "population": 40812,
+        "area": 34.0,
+        "region": "Americas"
+    },
+    {
+        "name": "Iceland",
+        "population": 366425,
+        "area": 103000.0,
+        "region": "Europe"
+    },
+    {
+        "name": "Luxembourg",
+        "population": 632275,
+        "area": 2586.0,
+        "region": "Europe"
+    },
+    {
+        "name": "Argentina",
+        "population": 45376763,
+        "area": 2780400.0,
+        "region": "Americas"
+    },
+    {
+        "name": "Turks and Caicos Islands",
+        "population": 38718,
+        "area": 948.0,
+        "region": "Americas"
+    },
+    {
+        "name": "Nauru",
+        "population": 10834,
+        "area": 21.0,
+        "region": "Oceania"
+    },
+    {
+        "name": "Cocos (Keeling) Islands",
+        "population": 544,
+        "area": 14.0,
+        "region": "Oceania"
+    },
+    {
+        "name": "Western Sahara",
+        "population": 510713,
+        "area": 266000.0,
+        "region": "Africa"
+    },
+    {
+        "name": "Dominica",
+        "population": 71991,
+        "area": 751.0,
+        "region": "Americas"
+    },
+    {
+        "name": "Costa Rica",
+        "population": 5094114,
+        "area": 51100.0,
+        "region": "Americas"
+    },
+    {
+        "name": "Australia",
+        "population": 25687041,
+        "area": 7692024.0,
+        "region": "Oceania"
+    },
+    {
+        "name": "Thailand",
+        "population": 69799978,
+        "area": 513120.0,
+        "region": "Asia"
+    },
+    {
+        "name": "Haiti",
+        "population": 11402533,
+        "area": 27750.0,
+        "region": "Americas"
+    },
+    {
+        "name": "Tuvalu",
+        "population": 11792,
+        "area": 26.0,
+        "region": "Oceania"
+    },
+    {
+        "name": "Honduras",
+        "population": 9904608,
+        "area": 112492.0,
+        "region": "Americas"
+    },
+    {
+        "name": "Equatorial Guinea",
+        "population": 1402985,
+        "area": 28051.0,
+        "region": "Africa"
+    },
+    {
+        "name": "Saint Lucia",
+        "population": 183629,
+        "area": 616.0,
+        "region": "Americas"
+    },
+    {
+        "name": "French Polynesia",
+        "population": 280904,
+        "area": 4167.0,
+        "region": "Oceania"
+    },
+    {
+        "name": "Belarus",
+        "population": 9398861,
+        "area": 207600.0,
+        "region": "Europe"
+    },
+    {
+        "name": "Latvia",
+        "population": 1901548,
+        "area": 64559.0,
+        "region": "Europe"
+    },
+    {
+        "name": "Palau",
+        "population": 18092,
+        "area": 459.0,
+        "region": "Oceania"
+    },
+    {
+        "name": "Guadeloupe",
+        "population": 400132,
+        "area": 1628.0,
+        "region": "Americas"
+    },
+    {
+        "name": "Philippines",
+        "population": 109581085,
+        "area": 342353.0,
+        "region": "Asia"
+    },
+    {
+        "name": "Gibraltar",
+        "population": 33691,
+        "area": 6.0,
+        "region": "Europe"
+    },
+    {
+        "name": "Denmark",
+        "population": 5831404,
+        "area": 43094.0,
+        "region": "Europe"
+    },
+    {
+        "name": "Cameroon",
+        "population": 26545864,
+        "area": 475442.0,
+        "region": "Africa"
+    },
+    {
+        "name": "Guinea",
+        "population": 13132792,
+        "area": 245857.0,
+        "region": "Africa"
+    },
+    {
+        "name": "Bahrain",
+        "population": 1701583,
+        "area": 765.0,
+        "region": "Asia"
+    },
+    {
+        "name": "Suriname",
+        "population": 586634,
+        "area": 163820.0,
+        "region": "Americas"
+    },
+    {
+        "name": "DR Congo",
+        "population": 108407721,
+        "area": 2344858.0,
+        "region": "Africa"
+    },
+    {
+        "name": "Somalia",
+        "population": 15893219,
+        "area": 637657.0,
+        "region": "Africa"
+    },
+    {
+        "name": "Czechia",
+        "population": 10698896,
+        "area": 78865.0,
+        "region": "Europe"
+    },
+    {
+        "name": "New Caledonia",
+        "population": 271960,
+        "area": 18575.0,
+        "region": "Oceania"
+    },
+    {
+        "name": "Vanuatu",
+        "population": 307150,
+        "area": 12189.0,
+        "region": "Oceania"
+    },
+    {
+        "name": "Saint Helena, Ascension and Tristan da Cunha",
+        "population": 53192,
+        "area": 394.0,
+        "region": "Africa"
+    },
+    {
+        "name": "Togo",
+        "population": 8278737,
+        "area": 56785.0,
+        "region": "Africa"
+    },
+    {
+        "name": "British Virgin Islands",
+        "population": 30237,
+        "area": 151.0,
+        "region": "Americas"
+    },
+    {
+        "name": "Kenya",
+        "population": 53771300,
+        "area": 580367.0,
+        "region": "Africa"
+    },
+    {
+        "name": "Niue",
+        "population": 1470,
+        "area": 260.0,
+        "region": "Oceania"
+    },
+    {
+        "name": "Heard Island and McDonald Islands",
+        "population": 0,
+        "area": 412.0,
+        "region": "Antarctic"
+    },
+    {
+        "name": "Rwanda",
+        "population": 12952209,
+        "area": 26338.0,
+        "region": "Africa"
+    },
+    {
+        "name": "Estonia",
+        "population": 1331057,
+        "area": 45227.0,
+        "region": "Europe"
+    },
+    {
+        "name": "Romania",
+        "population": 19286123,
+        "area": 238391.0,
+        "region": "Europe"
+    },
+    {
+        "name": "Trinidad and Tobago",
+        "population": 1399491,
+        "area": 5130.0,
+        "region": "Americas"
+    },
+    {
+        "name": "Guyana",
+        "population": 786559,
+        "area": 214969.0,
+        "region": "Americas"
+    },
+    {
+        "name": "Timor-Leste",
+        "population": 1318442,
+        "area": 14874.0,
+        "region": "Asia"
+    },
+    {
+        "name": "Vietnam",
+        "population": 97338583,
+        "area": 331212.0,
+        "region": "Asia"
+    },
+    {
+        "name": "Uruguay",
+        "population": 3473727,
+        "area": 181034.0,
+        "region": "Americas"
+    },
+    {
+        "name": "Vatican City",
+        "population": 451,
+        "area": 0.44,
+        "region": "Europe"
+    },
+    {
+        "name": "Hong Kong",
+        "population": 7500700,
+        "area": 1104.0,
+        "region": "Asia"
+    },
+    {
+        "name": "Austria",
+        "population": 8917205,
+        "area": 83871.0,
+        "region": "Europe"
+    },
+    {
+        "name": "Antigua and Barbuda",
+        "population": 97928,
+        "area": 442.0,
+        "region": "Americas"
+    },
+    {
+        "name": "Turkmenistan",
+        "population": 6031187,
+        "area": 488100.0,
+        "region": "Asia"
+    },
+    {
+        "name": "Mozambique",
+        "population": 31255435,
+        "area": 801590.0,
+        "region": "Africa"
+    },
+    {
+        "name": "Panama",
+        "population": 4314768,
+        "area": 75417.0,
+        "region": "Americas"
+    },
+    {
+        "name": "Micronesia",
+        "population": 115021,
+        "area": 702.0,
+        "region": "Oceania"
+    },
+    {
+        "name": "Ireland",
+        "population": 4994724,
+        "area": 70273.0,
+        "region": "Europe"
+    },
+    {
+        "name": "Cura\u00e7ao",
+        "population": 155014,
+        "area": 444.0,
+        "region": "Americas"
+    },
+    {
+        "name": "French Guiana",
+        "population": 254541,
+        "area": 83534.0,
+        "region": "Americas"
+    },
+    {
+        "name": "Norway",
+        "population": 5379475,
+        "area": 323802.0,
+        "region": "Europe"
+    },
+    {
+        "name": "\u00c5land Islands",
+        "population": 29458,
+        "area": 1580.0,
+        "region": "Europe"
+    },
+    {
+        "name": "Central African Republic",
+        "population": 4829764,
+        "area": 622984.0,
+        "region": "Africa"
+    },
+    {
+        "name": "Burkina Faso",
+        "population": 20903278,
+        "area": 272967.0,
+        "region": "Africa"
+    },
+    {
+        "name": "Eritrea",
+        "population": 5352000,
+        "area": 117600.0,
+        "region": "Africa"
+    },
+    {
+        "name": "Tanzania",
+        "population": 59734213,
+        "area": 945087.0,
+        "region": "Africa"
+    },
+    {
+        "name": "South Korea",
+        "population": 51780579,
+        "area": 100210.0,
+        "region": "Asia"
+    },
+    {
+        "name": "Jordan",
+        "population": 10203140,
+        "area": 89342.0,
+        "region": "Asia"
+    },
+    {
+        "name": "Mauritania",
+        "population": 4649660,
+        "area": 1030700.0,
+        "region": "Africa"
+    },
+    {
+        "name": "Lithuania",
+        "population": 2794700,
+        "area": 65300.0,
+        "region": "Europe"
+    },
+    {
+        "name": "United States Minor Outlying Islands",
+        "population": 300,
+        "area": 34.2,
+        "region": "Americas"
+    },
+    {
+        "name": "Slovakia",
+        "population": 5458827,
+        "area": 49037.0,
+        "region": "Europe"
+    },
+    {
+        "name": "Angola",
+        "population": 32866268,
+        "area": 1246700.0,
+        "region": "Africa"
+    },
+    {
+        "name": "Kazakhstan",
+        "population": 18754440,
+        "area": 2724900.0,
+        "region": "Asia"
+    },
+    {
+        "name": "Moldova",
+        "population": 2617820,
+        "area": 33846.0,
+        "region": "Europe"
+    },
+    {
+        "name": "Mali",
+        "population": 20250834,
+        "area": 1240192.0,
+        "region": "Africa"
+    },
+    {
+        "name": "Falkland Islands",
+        "population": 2563,
+        "area": 12173.0,
+        "region": "Americas"
+    },
+    {
+        "name": "Armenia",
+        "population": 2963234,
+        "area": 29743.0,
+        "region": "Asia"
+    },
+    {
+        "name": "Samoa",
+        "population": 198410,
+        "area": 2842.0,
+        "region": "Oceania"
+    },
+    {
+        "name": "Jersey",
+        "population": 100800,
+        "area": 116.0,
+        "region": "Europe"
+    },
+    {
+        "name": "Japan",
+        "population": 125836021,
+        "area": 377930.0,
+        "region": "Asia"
+    },
+    {
+        "name": "Bolivia",
+        "population": 11673029,
+        "area": 1098581.0,
+        "region": "Americas"
+    },
+    {
+        "name": "Chile",
+        "population": 19116209,
+        "area": 756102.0,
+        "region": "Americas"
+    },
+    {
+        "name": "United States",
+        "population": 329484123,
+        "area": 9372610.0,
+        "region": "Americas"
+    },
+    {
+        "name": "Saint Vincent and the Grenadines",
+        "population": 110947,
+        "area": 389.0,
+        "region": "Americas"
+    },
+    {
+        "name": "Bermuda",
+        "population": 63903,
+        "area": 54.0,
+        "region": "Americas"
+    },
+    {
+        "name": "Seychelles",
+        "population": 98462,
+        "area": 452.0,
+        "region": "Africa"
+    },
+    {
+        "name": "British Indian Ocean Territory",
+        "population": 3000,
+        "area": 60.0,
+        "region": "Africa"
+    },
+    {
+        "name": "Guatemala",
+        "population": 16858333,
+        "area": 108889.0,
+        "region": "Americas"
+    },
+    {
+        "name": "Ecuador",
+        "population": 17643060,
+        "area": 276841.0,
+        "region": "Americas"
+    },
+    {
+        "name": "Martinique",
+        "population": 378243,
+        "area": 1128.0,
+        "region": "Americas"
+    },
+    {
+        "name": "Tajikistan",
+        "population": 9537642,
+        "area": 143100.0,
+        "region": "Asia"
+    },
+    {
+        "name": "Malta",
+        "population": 525285,
+        "area": 316.0,
+        "region": "Europe"
+    },
+    {
+        "name": "Gambia",
+        "population": 2416664,
+        "area": 10689.0,
+        "region": "Africa"
+    },
+    {
+        "name": "Nigeria",
+        "population": 206139587,
+        "area": 923768.0,
+        "region": "Africa"
+    },
+    {
+        "name": "Bahamas",
+        "population": 393248,
+        "area": 13943.0,
+        "region": "Americas"
+    },
+    {
+        "name": "Kosovo",
+        "population": 1775378,
+        "area": 10908.0,
+        "region": "Europe"
+    },
+    {
+        "name": "Kuwait",
+        "population": 4270563,
+        "area": 17818.0,
+        "region": "Asia"
+    },
+    {
+        "name": "Maldives",
+        "population": 540542,
+        "area": 300.0,
+        "region": "Asia"
+    },
+    {
+        "name": "South Sudan",
+        "population": 11193729,
+        "area": 619745.0,
+        "region": "Africa"
+    },
+    {
+        "name": "Iran",
+        "population": 83992953,
+        "area": 1648195.0,
+        "region": "Asia"
+    },
+    {
+        "name": "Albania",
+        "population": 2837743,
+        "area": 28748.0,
+        "region": "Europe"
+    },
+    {
+        "name": "Brazil",
+        "population": 212559409,
+        "area": 8515767.0,
+        "region": "Americas"
+    },
+    {
+        "name": "Serbia",
+        "population": 6908224,
+        "area": 88361.0,
+        "region": "Europe"
+    },
+    {
+        "name": "Belize",
+        "population": 397621,
+        "area": 22966.0,
+        "region": "Americas"
+    },
+    {
+        "name": "Myanmar",
+        "population": 54409794,
+        "area": 676578.0,
+        "region": "Asia"
+    },
+    {
+        "name": "Bhutan",
+        "population": 771612,
+        "area": 38394.0,
+        "region": "Asia"
+    },
+    {
+        "name": "Venezuela",
+        "population": 28435943,
+        "area": 916445.0,
+        "region": "Americas"
+    },
+    {
+        "name": "Liberia",
+        "population": 5057677,
+        "area": 111369.0,
+        "region": "Africa"
+    },
+    {
+        "name": "Jamaica",
+        "population": 2961161,
+        "area": 10991.0,
+        "region": "Americas"
+    },
+    {
+        "name": "Poland",
+        "population": 37950802,
+        "area": 312679.0,
+        "region": "Europe"
+    },
+    {
+        "name": "Cayman Islands",
+        "population": 65720,
+        "area": 264.0,
+        "region": "Americas"
+    },
+    {
+        "name": "Brunei",
+        "population": 437483,
+        "area": 5765.0,
+        "region": "Asia"
+    },
+    {
+        "name": "Comoros",
+        "population": 869595,
+        "area": 1862.0,
+        "region": "Africa"
+    },
+    {
+        "name": "Guam",
+        "population": 168783,
+        "area": 549.0,
+        "region": "Oceania"
+    },
+    {
+        "name": "Tonga",
+        "population": 105697,
+        "area": 747.0,
+        "region": "Oceania"
+    },
+    {
+        "name": "Kiribati",
+        "population": 119446,
+        "area": 811.0,
+        "region": "Oceania"
+    },
+    {
+        "name": "Ghana",
+        "population": 31072945,
+        "area": 238533.0,
+        "region": "Africa"
+    },
+    {
+        "name": "Chad",
+        "population": 16425859,
+        "area": 1284000.0,
+        "region": "Africa"
+    },
+    {
+        "name": "Zimbabwe",
+        "population": 14862927,
+        "area": 390757.0,
+        "region": "Africa"
+    },
+    {
+        "name": "Saint Martin",
+        "population": 38659,
+        "area": 53.0,
+        "region": "Americas"
+    },
+    {
+        "name": "Mongolia",
+        "population": 3278292,
+        "area": 1564110.0,
+        "region": "Asia"
+    },
+    {
+        "name": "Portugal",
+        "population": 10305564,
+        "area": 92090.0,
+        "region": "Europe"
+    },
+    {
+        "name": "American Samoa",
+        "population": 55197,
+        "area": 199.0,
+        "region": "Oceania"
+    },
+    {
+        "name": "Republic of the Congo",
+        "population": 5657000,
+        "area": 342000.0,
+        "region": "Africa"
+    },
+    {
+        "name": "Belgium",
+        "population": 11555997,
+        "area": 30528.0,
+        "region": "Europe"
+    },
+    {
+        "name": "Israel",
+        "population": 9216900,
+        "area": 20770.0,
+        "region": "Asia"
+    },
+    {
+        "name": "New Zealand",
+        "population": 5084300,
+        "area": 270467.0,
+        "region": "Oceania"
+    },
+    {
+        "name": "Nicaragua",
+        "population": 6624554,
+        "area": 130373.0,
+        "region": "Americas"
+    },
+    {
+        "name": "Anguilla",
+        "population": 13452,
+        "area": 91.0,
+        "region": "Americas"
+    }
+]
